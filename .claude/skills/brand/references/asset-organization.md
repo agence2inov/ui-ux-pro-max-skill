@@ -101,7 +101,7 @@ infographic_evergreen_pricing-comparison_20251209.png
   "path": "assets/banners/landing-pages/banner_claude-launch_hero-image_20251209_v2.png",
   "changes": "Updated CTA button color to match brand refresh",
   "createdAt": "2025-12-09T12:00:00Z",
-  "createdBy": "agent:content-creator"
+  "createdBy": "agent:ui-designer"
 }
 ```
 

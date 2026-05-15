@@ -112,6 +112,16 @@ Minimum clear space = height of logo mark
 - {Lighting preference}
 - {Subject guidelines}
 - {Color treatment}
+
+### Illustrations
+- Style: {description}
+- Colors: Brand palette only
+- Stroke: {weight}px
+
+### Icons
+- Style: {outlined/filled/duotone}
+- Size: 24px base grid
+- Corner radius: {value}px
 ```
 
 ## Usage
