@@ -12,6 +12,9 @@ __pycache__/
 .venv/
 venv/
 ENV/
+.coverage
+.coverage.*
+htmlcov/
 
 # IDE
 .idea/
